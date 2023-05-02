@@ -1,0 +1,23 @@
+{
+  "name": "node-exam",
+  "version": "1.0.0",
+  "description": "NodeJS exam project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meerwaldten/Node-Exam.git"
+  },
+  "author": "Mikkel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Meerwaldten/Node-Exam/issues"
+  },
+  "homepage": "https://github.com/Meerwaldten/Node-Exam#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
